@@ -1,3 +1,3 @@
 # CMDTess
-Interactive Bokeh plot of all TESS Southern Hemisphere data
+Interactive Bokeh plot of all TESS Southern Hemisphere data  
   
